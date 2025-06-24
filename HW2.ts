@@ -1,0 +1,2 @@
+if(Math.random() >= 0.5) console.log("Passed");//Math - библиотека в JS, которая выполняет различные действия с числами Метод Math.random возвращает случайное число от 0 до 1 (1 не включается)
+else console.log("Failed");
